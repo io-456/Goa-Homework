@@ -1,0 +1,66 @@
+.one:hover{
+    color: green;
+    font-size: larger;
+    text-shadow: 
+    1px 1px 0 #006400,
+    2px 2px 0 #006400,
+    3px 3px 0 #006400,
+    4px 4px 0 #006400,
+    5px 5px 10px rgba(0, 100, 0, 0.6);
+}
+.one:active{
+    color: gold;
+    text-shadow: 
+    1px 1px  0 #b8860b,
+    2px 2px  0 #b8860b,
+    3px 3px  0 #b8860b,
+    4px 4px  0 #8b7500,
+    5px 5px 10px rgba(184, 134, 11, 0.6);
+}
+
+.two:hover{
+    columns: #39ff14;
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #39ff14,
+    0 0 40px #39ff14,
+    0 0 80px #39ff14;
+
+}
+
+.two:active{
+    color: green;
+    font-size: larger;
+    text-shadow: 
+    1px 1px 0 #006400,
+    2px 2px 0 #006400,
+    3px 3px 0 #006400,
+    4px 4px 0 #006400,
+    5px 5px 10px rgba(0, 100, 0, 0.6);
+}
+
+.three:hover{
+    color: #00ff00;
+    font-weight: bold;
+    text-shadow: 
+    -2px -2px 2px #66ff66,
+    2px 2px 2px #003300;
+}
+
+.three:active{
+    color: green;
+    font-size: larger;
+    text-shadow: 
+    1px 1px 0 #006400,
+    2px 2px 0 #006400,
+    3px 3px 0 #006400,
+    4px 4px 0 #006400,
+    5px 5px 10px rgba(0, 100, 0, 0.6);
+}
+
+body {
+    background-color: #000;
+}
+
