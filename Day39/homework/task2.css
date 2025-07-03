@@ -1,0 +1,84 @@
+body{
+    background-color: #000;
+}
+
+.li1:link{
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.li1:visited{
+    color: #ff0000;
+}
+
+.li1:hover{
+    color: #000;
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #39ff14,
+    0 0 40px #39ff14,
+    0 0 80px #39ff14;
+
+}
+
+.li1:active{
+    color: #0b57d0;
+    text-shadow: none;
+}
+
+
+
+.li2:link{
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.li2:visited{
+    color: #ff0000;
+}
+
+.li2:hover{
+    color: #39ff14;
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #39ff14,
+    0 0 40px #39ff14,
+    0 0 80px #39ff14;
+
+}
+
+.li2:active{
+    color: #0b57d0;
+    text-shadow: none;
+}
+
+
+.li3:link{
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.li3:visited{
+    color: #ff0000;
+}
+
+.li3:hover{
+    color: #39ff14;
+    font-weight: bold;
+    text-shadow: 
+    0 0 5px #39ff14,
+    0 0 10px #39ff14,
+    0 0 20px #39ff14,
+    0 0 40px #39ff14,
+    0 0 80px #39ff14;
+
+}
+
+.li3:active{
+    color: #1a73e8;
+    text-shadow: none;
+}
