@@ -1,0 +1,42 @@
+*{
+    display: flex;
+    background-color: #000;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+
+
+.box1{
+    color: aqua;
+    flex-grow: 2;
+    flex-shrink: 2;
+}
+
+.box2{
+    color: blue;
+    flex-grow: 3;
+    flex-shrink: 3;
+}
+
+.box3{
+    color: blueviolet;
+    flex-grow: 2;
+    flex-shrink: 3;
+}
+
+.box4{
+    color: azure;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.box5{
+    color: bisque;
+    flex-grow: 4;
+    flex-shrink: 3;
+}
